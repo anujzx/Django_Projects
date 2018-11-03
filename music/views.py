@@ -6,8 +6,9 @@ from django.db.models import Q
 from .forms import AlbumForm, SongForm, UserForm
 from .models import Album, Song
 
-AUDIO_FILE_TYPES = ['wav', 'mp3', 'ogg']
-IMAGE_FILE_TYPES = ['png', 'jpg', 'jpeg']
+AUDIO_FILE_TYPES = ['csv','pdf']
+IMAGE_FILE_TYPES = ['csv','pdf']
+
 
 
 def create_album(request):
