@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![](http://i.imgur.com/YiFZyuW.png)
 
 # What is Viberr?
@@ -29,3 +30,7 @@ Once songs are added to an album you are then able to play, favorite, and delete
 You can also search for music using the search feature at the top of every page. Any relevant albums will appear at the top of the results page, and the results for individual songs will appear below. 
 
 ![](http://i.imgur.com/kfkFA3N.png)
+=======
+# Django_Projects
+Django Projects
+>>>>>>> 888c6ef39c923904732b143293facfdc363c0043
